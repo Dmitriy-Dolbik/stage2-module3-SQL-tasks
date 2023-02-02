@@ -19,6 +19,8 @@ INSERT INTO subject (name, description, grade) VALUES ('PE', 'Physical', 3);
 INSERT INTO subject (name, description, grade) VALUES ('Math', 'Mathematics', 3);
 INSERT INTO subject (name, description, grade) VALUES ('Science', 'Science', 4);
 INSERT INTO subject (name, description, grade) VALUES ('IT', 'Information', 4);
+INSERT INTO subject (name, description, grade) VALUES ('English', 'Information', 5);
+INSERT INTO subject (name, description, grade) VALUES ('France', 'Information', 5);
 
 INSERT INTO paymenttype (name) VALUES ('DAILY');
 INSERT INTO paymenttype (name) VALUES ('WEEKLY');
